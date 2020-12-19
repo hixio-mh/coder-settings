@@ -42,7 +42,7 @@
 		"urlencode": "^1.1.0",
 		"vscode-debugadapter": "^1.11.0",
 		"vscode-debugprotocol": "^1.11.0",
-		"xmldom": "^0.1.22"
+		"xmldom": "^0.4.0"
 	},
 	"devDependencies": {
 		"@types/chai": "4.0.6",
