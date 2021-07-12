@@ -108,7 +108,7 @@
 	},
 	"dependencies": {
 		"vscode-languageclient": "3.1.0",
-		"vscode-languageserver": "3.1.0",
+		"vscode-languageserver": "3.5.1",
 		"vscode-css-languageservice": "2.0.0",
 		"vscode-uri": "1.0.0",
 		"readdir-enhanced": "1.4.5",
