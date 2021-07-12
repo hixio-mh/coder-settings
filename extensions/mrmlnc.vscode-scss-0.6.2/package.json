@@ -110,7 +110,7 @@
 		"vscode-languageclient": "3.1.0",
 		"vscode-languageserver": "3.1.0",
 		"vscode-css-languageservice": "2.0.0",
-		"vscode-uri": "1.0.0",
+		"vscode-uri": "1.0.8",
 		"readdir-enhanced": "1.4.5",
 		"micromatch": "2.3.11",
 		"scss-symbols-parser": "1.1.1"
