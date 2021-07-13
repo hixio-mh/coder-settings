@@ -114,7 +114,7 @@
         "@vsintellicode/vscode-intellicode-java": "0.3.13",
         "@vsintellicode/vscode-intellicode-python": "0.0.30-ci-master-2522624",
         "async-file": "2.0.2",
-        "request": "2.87.0",
+        "request": "2.88.2",
         "request-progress": "3.0.0",
         "semver": "5.5.0",
         "vsce": "^1.59.0",
