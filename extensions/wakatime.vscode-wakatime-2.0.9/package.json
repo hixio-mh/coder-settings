@@ -95,7 +95,7 @@
 		"del-cli": "^1.1.0",
 		"original-fs": "^1.0.0",
 		"prettier": "1.17.0",
-		"request": "2.88.0",
+		"request": "2.88.2",
 		"rimraf": "^2.6.3",
 		"ts-loader": "^5.3.3",
 		"tslib": "^1.9.3",
