@@ -425,7 +425,7 @@
 		"tslint": "^5.7.0",
 		"tslint-config-prettier": "^1.6.0",
 		"typescript": "^2.9.0",
-		"vscode": "0.10.x"
+		"vscode": "1.1.6"
 	},
 	"husky": {
 		"hooks": {
