@@ -105,7 +105,7 @@
         "typescript": "^2.6.1",
         "vscode": "^1.1.33",
         "webpack": "^4.29.6",
-        "webpack-cli": "^3.2.3"
+        "webpack-cli": "^4.0.0"
     },
     "dependencies": {
         "@vsintellicode/http-client": "0.0.2-SNAPSHOT.201902052314",
