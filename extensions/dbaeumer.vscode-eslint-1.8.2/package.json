@@ -295,7 +295,7 @@
 		"@types/node": "^8.0.0",
 		"tslint": "^5.11.0",
 		"webpack": "^4.29.6",
-		"webpack-cli": "^3.2.3",
+		"webpack-cli": "^4.0.0",
 		"ts-loader": "^5.3.3",
 		"merge-options": "^1.0.1",
 		"rimraf": "^2.6.3"
