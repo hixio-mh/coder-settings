@@ -92,7 +92,7 @@
 		"@types/rimraf": "^2.0.2",
 		"@types/webpack": "^4.4.27",
 		"adm-zip": "0.4.13",
-		"del-cli": "^1.1.0",
+		"del-cli": "^2.0.0",
 		"original-fs": "^1.0.0",
 		"prettier": "1.17.0",
 		"request": "2.88.0",
