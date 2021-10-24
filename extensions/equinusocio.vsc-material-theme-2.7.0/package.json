@@ -167,7 +167,7 @@
 		"browserify": "16.2.2",
 		"gulp": "3.9.1",
 		"gulp-bump": "3.1.0",
-		"gulp-conventional-changelog": "1.1.11",
+		"gulp-conventional-changelog": "2.0.0",
 		"gulp-if": "2.0.2",
 		"gulp-stats": "0.0.4",
 		"gulp-util": "3.0.8",
