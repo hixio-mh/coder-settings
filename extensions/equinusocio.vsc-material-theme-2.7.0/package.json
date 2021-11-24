@@ -181,7 +181,7 @@
 	"dependencies": {
 		"@sanity/client": "0.147.3",
 		"opencollective": "1.0.3",
-		"vsce": "1.83.0"
+		"vsce": "1.103.0"
 	},
 	"collective": {
 		"type": "opencollective",
