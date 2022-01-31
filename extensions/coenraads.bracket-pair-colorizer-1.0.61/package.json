@@ -226,7 +226,7 @@
 	"dependencies": {
 		"escape-html": "^1.0.3",
 		"prismjs": "^1.15.0",
-		"vsce": "^1.57.1",
+		"vsce": "^2.6.4",
 		"vscode-uri": "^1.0.3"
 	},
 	"__metadata": {
