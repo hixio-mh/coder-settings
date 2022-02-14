@@ -30,7 +30,7 @@
 		"felixfbecker.php-intellisense"
 	],
 	"dependencies": {
-		"vsce": "^1.57.1"
+		"vsce": "^2.6.4"
 	},
 	"__metadata": {
 		"id": "felixfbecker.php-pack",
