@@ -5040,7 +5040,7 @@
 		"terser-webpack-plugin": "1.2.3",
 		"ts-loader": "5.3.3",
 		"typescript": "3.4.4",
-		"vsce": "1.59.0",
+		"vsce": "2.6.4",
 		"vscode": "1.1.33",
 		"webpack": "4.30.0",
 		"webpack-cli": "3.3.1",
