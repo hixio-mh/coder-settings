@@ -301,7 +301,7 @@
 		"rimraf": "^2.6.3"
 	},
 	"dependencies": {
-		"vsce": "^1.59.0"
+		"vsce": "^2.6.4"
 	},
 	"__metadata": {
 		"id": "dbaeumer.vscode-eslint",
